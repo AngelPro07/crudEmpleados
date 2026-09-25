@@ -15,6 +15,7 @@
       border-radius: 30px;
     }
   </style>
+  
 </head>
 
 <?php
