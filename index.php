@@ -15,7 +15,7 @@
       border-radius: 30px;
     }
   </style>
-  
+
 </head>
 
 <?php
@@ -29,7 +29,6 @@
 </script>
 
 <body class="teal lighten-5">
-
 
 <?php   
   
