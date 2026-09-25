@@ -26,6 +26,7 @@
 <script>
   const estado = '<?= $estado ?>';
   const mensaje = '<?= $mensaje ?>';
+  const ejemplo = '0';
 </script>
 
 <body class="teal lighten-5">
